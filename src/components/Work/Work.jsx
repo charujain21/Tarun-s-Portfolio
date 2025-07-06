@@ -22,8 +22,8 @@ const Work = () => {
         <h2 className="text-4xl font-bold text-white">PROJECTS</h2>
         <div className="w-32 h-1 bg-purple-500 mx-auto mt-4"></div>
         <p className="text-gray-400 mt-4 text-lg font-semibold">
-          A showcase of the project I have worked on, demonstrating my skills and experience in various technologies such as HTML, CSS, JavaScript, and backend integration. The website includes both user and admin panels. For full access and demonstration purposes, you can use the following demo admin credentials:
-Email: admin@example.com | Password: badebaba123 (for demo only).
+          A showcase of the projects I have worked on, highlighting my skills
+          and experience in various technologies
         </p>
       </div>
 
