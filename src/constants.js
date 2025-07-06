@@ -190,22 +190,22 @@ export const experiences = [
       id: 0,
       title: "Native Craft – Handcrafted E-commerce Website",
       description:
-        "A showcase of the project I have worked on, demonstrating my skills and experience in various technologies such as HTML, CSS, JavaScript, and backend integration. The website includes both user and admin panels. For full access and demonstration purposes, you can use the following demo admin credentials - Email: admin@example.com | Password: badebaba123 (for demo only)..",
+        "A showcase of the project I have worked on, demonstrating my skills and experience in various technologies such as HTML, CSS, JavaScript, and backend integration. The website includes both user and admin panels. For full access and demonstration purposes, you can use the following demo admin credentials - Email: admin@example.com | Password: badebaba123 (for demo only).",
       image: githubdetLogo,
       tags: ["HTML", "CSS", "JavaScript", "React.js", "Tailwind CSS", "Node.js", "Express.js", "MongoDB"],
       github: "https://github.com/charujain21/Nativecrafts.git",
       webapp: "https://nativecrafts-3esi.vercel.app/",
     },
-    // {
-    //   id: 1,
-    //   title: "CS Prep",
-    //   description:
-    //     "A full-stack quiz-based platform designed for GATE/UGC NET students to practice previous year questions and create customized tests. The platform offers comprehensive profile stats and detailed results, helping students track and improve their preparation journey effectively.",
-    //   image: csprepLogo,
-    //   tags: ["React JS", "Node.js", "MongoDB", "Express", "HTML", "CSS", "JavaScript"],
-    //   github: "https://github.com/codingmastr/CSPrep",
-    //   webapp: "https://csprep.netlify.app/",
-    // },
+    {
+      id: 1,
+      title: "Travel Path ",
+      description:
+        "Developed a travel platform to discover and share lesser-known routes and hidden destinations.",
+      image: csprepLogo,
+      tags: ["React JS", "Node.js", "MongoDB", "Express", "HTML", "CSS", "JavaScript"],
+      github: "https://github.com/charujain21/TRAVEL-PATH",
+      // webapp: "https://csprep.netlify.app/",
+    },
     // {
     //   id: 2,
     //   title: "Movie Recommendation App",
